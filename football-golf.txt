@@ -1,0 +1,132 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/212nz9z3bi67xvxjnl90u/.png?rlkey=s828nfzs8yao5b0o3zz1g97er&dl=1" group-title="Football&Golf",ES - LALIGA HIGHLIGHTS UHD
+http://line.chktv.xyz:80/play/live.php?mac=00:1A:79:B8:8F:AD&stream=802543&extension=ts&play_token=ypWhhoU4Jk
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/212nz9z3bi67xvxjnl90u/.png?rlkey=s828nfzs8yao5b0o3zz1g97er&dl=1" group-title="Football&Golf",ES - LALIGA HIGHLIGHTS UHD
+http://line.chktv.xyz:80/play/live.php?mac=00:1A:79:B8:8F:AD&stream=802543&extension=ts&play_token=ypWhhoU4Jk
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/212nz9z3bi67xvxjnl90u/.png?rlkey=s828nfzs8yao5b0o3zz1g97er&dl=1" group-title="Football&Golf",ES - LALIGA REPLAY 1 UHD
+http://line.chktv.xyz:80/play/live.php?mac=00:1A:79:B8:8F:AD&stream=802542&extension=ts&play_token=vCJfj22Yff
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/212nz9z3bi67xvxjnl90u/.png?rlkey=s828nfzs8yao5b0o3zz1g97er&dl=1" group-title="Football&Golf",ES - LALIGA REPLAY 2 UHD
+http://line.chktv.xyz:80/play/live.php?mac=00:1A:79:B8:8F:AD&stream=802541&extension=ts&play_token=YUTMVHHopu
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/212nz9z3bi67xvxjnl90u/.png?rlkey=s828nfzs8yao5b0o3zz1g97er&dl=1" group-title="Football&Golf",ES - LALIGA REPLAY 3 UHD
+http://line.chktv.xyz:80/play/live.php?mac=00:1A:79:B8:8F:AD&stream=802540&extension=ts&play_token=Db6MSROZhb
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/212nz9z3bi67xvxjnl90u/.png?rlkey=s828nfzs8yao5b0o3zz1g97er&dl=1" group-title="Football&Golf",ES - LALIGA REPLAY 4 UHD
+http://line.chktv.xyz:80/play/live.php?mac=00:1A:79:B8:8F:AD&stream=802539&extension=ts&play_token=dvD88aXU8e
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/212nz9z3bi67xvxjnl90u/.png?rlkey=s828nfzs8yao5b0o3zz1g97er&dl=1" group-title="Football&Golf",ES - LALIGA REPLAY 5 UHD
+http://line.chktv.xyz:80/play/live.php?mac=00:1A:79:B8:8F:AD&stream=802538&extension=ts&play_token=5HfvT3JTGX
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/212nz9z3bi67xvxjnl90u/.png?rlkey=s828nfzs8yao5b0o3zz1g97er&dl=1" group-title="Football&Golf",ES - LALIGA REPLAY 6 UHD
+http://line.chktv.xyz:80/play/live.php?mac=00:1A:79:B8:8F:AD&stream=802537&extension=ts&play_token=6JUNHIwEfi
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/212nz9z3bi67xvxjnl90u/.png?rlkey=s828nfzs8yao5b0o3zz1g97er&dl=1" group-title="Football&Golf",ES - LALIGA REPLAY 7 UHD
+http://line.chktv.xyz:80/play/live.php?mac=00:1A:79:B8:8F:AD&stream=802536&extension=ts&play_token=thiGIrjs3F
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/212nz9z3bi67xvxjnl90u/.png?rlkey=s828nfzs8yao5b0o3zz1g97er&dl=1" group-title="Football&Golf",ES - LALIGA REPLAY 8 UHD
+http://line.chktv.xyz:80/play/live.php?mac=00:1A:79:B8:8F:AD&stream=802535&extension=ts&play_token=a5a5mY7lGE
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/212nz9z3bi67xvxjnl90u/.png?rlkey=s828nfzs8yao5b0o3zz1g97er&dl=1" group-title="Football&Golf",ES - LALIGA REPLAY 9 UHD
+http://line.chktv.xyz:80/play/live.php?mac=00:1A:79:B8:8F:AD&stream=802534&extension=ts&play_token=1ZsS1fCXWa
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/212nz9z3bi67xvxjnl90u/.png?rlkey=s828nfzs8yao5b0o3zz1g97er&dl=1" group-title="Football&Golf",ES - LALIGA REPLAY 10 UHD
+http://line.chktv.xyz:80/play/live.php?mac=00:1A:79:B8:8F:AD&stream=802533&extension=ts&play_token=IVsAqBcTdH
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/212nz9z3bi67xvxjnl90u/.png?rlkey=s828nfzs8yao5b0o3zz1g97er&dl=1" group-title="Football&Golf",ES - LALIGA REPLAY ENGLISH 1 UHD
+http://line.chktv.xyz:80/play/live.php?mac=00:1A:79:B8:8F:AD&stream=802532&extension=ts&play_token=mbPRFTDFtp
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/212nz9z3bi67xvxjnl90u/.png?rlkey=s828nfzs8yao5b0o3zz1g97er&dl=1" group-title="Football&Golf",ES - LALIGA REPLAY ENGLISH 2 UHD
+http://line.chktv.xyz:80/play/live.php?mac=00:1A:79:B8:8F:AD&stream=802531&extension=ts&play_token=qLwudY0mzZ
+
+
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/212nz9z3bi67xvxjnl90u/.png?rlkey=s828nfzs8yao5b0o3zz1g97er&dl=1" group-title="Football&Golf",EL HIGHLIGHTS UHD
+http://line.chktv.xyz:80/play/live.php?mac=00:1A:79:B8:8F:AD&stream=856253&extension=ts&play_token=rVUfT6AUq8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/212nz9z3bi67xvxjnl90u/.png?rlkey=s828nfzs8yao5b0o3zz1g97er&dl=1" group-title="Football&Golf",EL REPLAY 1 UHD
+http://line.chktv.xyz:80/play/live.php?mac=00:1A:79:B8:8F:AD&stream=856252&extension=ts&play_token=vB65V3eDRY
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/212nz9z3bi67xvxjnl90u/.png?rlkey=s828nfzs8yao5b0o3zz1g97er&dl=1" group-title="Football&Golf",EL REPLAY 2 UHD
+http://line.chktv.xyz:80/play/live.php?mac=00:1A:79:B8:8F:AD&stream=856251&extension=ts&play_token=YOSW2UMhWs
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/212nz9z3bi67xvxjnl90u/.png?rlkey=s828nfzs8yao5b0o3zz1g97er&dl=1" group-title="Football&Golf",EL REPLAY 3 UHD
+http://line.chktv.xyz:80/play/live.php?mac=00:1A:79:B8:8F:AD&stream=856250&extension=ts&play_token=61zdaaCbzJ
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/212nz9z3bi67xvxjnl90u/.png?rlkey=s828nfzs8yao5b0o3zz1g97er&dl=1" group-title="Football&Golf",EL REPLAY 4 UHD
+http://line.chktv.xyz:80/play/live.php?mac=00:1A:79:B8:8F:AD&stream=856249&extension=ts&play_token=e7sh3q3T38
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/212nz9z3bi67xvxjnl90u/.png?rlkey=s828nfzs8yao5b0o3zz1g97er&dl=1" group-title="Football&Golf",EL REPLAY 5 UHD
+http://line.chktv.xyz:80/play/live.php?mac=00:1A:79:B8:8F:AD&stream=856248&extension=ts&play_token=nX0jnRo9m6
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/212nz9z3bi67xvxjnl90u/.png?rlkey=s828nfzs8yao5b0o3zz1g97er&dl=1" group-title="Football&Golf",EL REPLAY 6 UHD
+http://line.chktv.xyz:80/play/live.php?mac=00:1A:79:B8:8F:AD&stream=856247&extension=ts&play_token=tfj73gX2HN
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/212nz9z3bi67xvxjnl90u/.png?rlkey=s828nfzs8yao5b0o3zz1g97er&dl=1" group-title="Football&Golf",EL REPLAY 7 UHD
+http://line.chktv.xyz:80/play/live.php?mac=00:1A:79:B8:8F:AD&stream=856246&extension=ts&play_token=khTfF70wDv
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/212nz9z3bi67xvxjnl90u/.png?rlkey=s828nfzs8yao5b0o3zz1g97er&dl=1" group-title="Football&Golf",EL REPLAY 8 UHD
+http://line.chktv.xyz:80/play/live.php?mac=00:1A:79:B8:8F:AD&stream=856245&extension=ts&play_token=bkvPqlIRCV
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/212nz9z3bi67xvxjnl90u/.png?rlkey=s828nfzs8yao5b0o3zz1g97er&dl=1" group-title="Football&Golf",EL REPLAY 9 UHD
+http://line.chktv.xyz:80/play/live.php?mac=00:1A:79:B8:8F:AD&stream=856244&extension=ts&play_token=BPSNuAncRp
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/212nz9z3bi67xvxjnl90u/.png?rlkey=s828nfzs8yao5b0o3zz1g97er&dl=1" group-title="Football&Golf",EL REPLAY 10 UHD
+http://line.chktv.xyz:80/play/live.php?mac=00:1A:79:B8:8F:AD&stream=856243&extension=ts&play_token=j0hajZFIwn
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/212nz9z3bi67xvxjnl90u/.png?rlkey=s828nfzs8yao5b0o3zz1g97er&dl=1" group-title="Football&Golf",EL REPLAY 11 UHD
+http://line.chktv.xyz:80/play/live.php?mac=00:1A:79:B8:8F:AD&stream=856242&extension=ts&play_token=ag0tf5tUGM
+
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/212nz9z3bi67xvxjnl90u/.png?rlkey=s828nfzs8yao5b0o3zz1g97er&dl=1" group-title="Football&Golf",CL HIGHLIGHTS UHD
+http://line.chktv.xyz:80/play/live.php?mac=00:1A:79:B8:8F:AD&stream=804239&extension=ts&play_token=jTXgou8qXc
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/212nz9z3bi67xvxjnl90u/.png?rlkey=s828nfzs8yao5b0o3zz1g97er&dl=1" group-title="Football&Golf",CL REPLAY 1 UHD
+http://line.chktv.xyz:80/play/live.php?mac=00:1A:79:B8:8F:AD&stream=804238&extension=ts&play_token=Ks7arHohVS
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/212nz9z3bi67xvxjnl90u/.png?rlkey=s828nfzs8yao5b0o3zz1g97er&dl=1" group-title="Football&Golf",CL REPLAY 2 UHD
+http://line.chktv.xyz:80/play/live.php?mac=00:1A:79:B8:8F:AD&stream=804237&extension=ts&play_token=s7fL1RH3Kb
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/212nz9z3bi67xvxjnl90u/.png?rlkey=s828nfzs8yao5b0o3zz1g97er&dl=1" group-title="Football&Golf",CL REPLAY 3 UHD
+http://line.chktv.xyz:80/play/live.php?mac=00:1A:79:B8:8F:AD&stream=804236&extension=ts&play_token=JQqz1wcDa4
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/212nz9z3bi67xvxjnl90u/.png?rlkey=s828nfzs8yao5b0o3zz1g97er&dl=1" group-title="Football&Golf",CL REPLAY 4 UHD
+http://line.chktv.xyz:80/play/live.php?mac=00:1A:79:B8:8F:AD&stream=804235&extension=ts&play_token=MFuB37ruaP
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/212nz9z3bi67xvxjnl90u/.png?rlkey=s828nfzs8yao5b0o3zz1g97er&dl=1" group-title="Football&Golf",CL REPLAY 5 UHD
+http://line.chktv.xyz:80/play/live.php?mac=00:1A:79:B8:8F:AD&stream=804234&extension=ts&play_token=Uyl0WHp6Rx
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/212nz9z3bi67xvxjnl90u/.png?rlkey=s828nfzs8yao5b0o3zz1g97er&dl=1" group-title="Football&Golf",CL REPLAY 6 UHD
+http://line.chktv.xyz:80/play/live.php?mac=00:1A:79:B8:8F:AD&stream=804233&extension=ts&play_token=fc29mepsUS
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/212nz9z3bi67xvxjnl90u/.png?rlkey=s828nfzs8yao5b0o3zz1g97er&dl=1" group-title="Football&Golf",CL REPLAY 7 UHD
+http://line.chktv.xyz:80/play/live.php?mac=00:1A:79:B8:8F:AD&stream=804232&extension=ts&play_token=DGkcfWdDQv
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/212nz9z3bi67xvxjnl90u/.png?rlkey=s828nfzs8yao5b0o3zz1g97er&dl=1" group-title="Football&Golf",CL REPLAY 8 UHD
+http://line.chktv.xyz:80/play/live.php?mac=00:1A:79:B8:8F:AD&stream=804231&extension=ts&play_token=nkpE2vO75Q
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/212nz9z3bi67xvxjnl90u/.png?rlkey=s828nfzs8yao5b0o3zz1g97er&dl=1" group-title="Football&Golf",CL REPLAY 9 UHD
+http://line.chktv.xyz:80/play/live.php?mac=00:1A:79:B8:8F:AD&stream=804230&extension=ts&play_token=PKhDHVdJcP
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/212nz9z3bi67xvxjnl90u/.png?rlkey=s828nfzs8yao5b0o3zz1g97er&dl=1" group-title="Football&Golf",CL REPLAY 10 UHD
+http://line.chktv.xyz:80/play/live.php?mac=00:1A:79:B8:8F:AD&stream=804229&extension=ts&play_token=FsTErCIypn
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/212nz9z3bi67xvxjnl90u/.png?rlkey=s828nfzs8yao5b0o3zz1g97er&dl=1" group-title="Football&Golf",### EL REPLAY ###
+http://line.chktv.xyz:80/play/live.php?mac=00:1A:79:B8:8F:AD&stream=856255&extension=ts&play_token=JIcdawSREi
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/212nz9z3bi67xvxjnl90u/.png?rlkey=s828nfzs8yao5b0o3zz1g97er&dl=1" group-title="Football&Golf",EL REPLAY INFO UHD
+http://line.chktv.xyz:80/play/live.php?mac=00:1A:79:B8:8F:AD&stream=856254&extension=ts&play_token=0ln7WhB3Bq
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/212nz9z3bi67xvxjnl90u/.png?rlkey=s828nfzs8yao5b0o3zz1g97er&dl=1" group-title="Football&Golf",EL HIGHLIGHTS UHD
+http://line.chktv.xyz:80/play/live.php?mac=00:1A:79:B8:8F:AD&stream=856253&extension=ts&play_token=rVUfT6AUq8
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/212nz9z3bi67xvxjnl90u/.png?rlkey=s828nfzs8yao5b0o3zz1g97er&dl=1" group-title="Football&Golf",EL REPLAY 1 UHD
+http://line.chktv.xyz:80/play/live.php?mac=00:1A:79:B8:8F:AD&stream=856252&extension=ts&play_token=vB65V3eDRY
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/212nz9z3bi67xvxjnl90u/.png?rlkey=s828nfzs8yao5b0o3zz1g97er&dl=1" group-title="Football&Golf",EL REPLAY 2 UHD
+http://line.chktv.xyz:80/play/live.php?mac=00:1A:79:B8:8F:AD&stream=856251&extension=ts&play_token=YOSW2UMhWs
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/212nz9z3bi67xvxjnl90u/.png?rlkey=s828nfzs8yao5b0o3zz1g97er&dl=1" group-title="Football&Golf",EL REPLAY 3 UHD
+http://line.chktv.xyz:80/play/live.php?mac=00:1A:79:B8:8F:AD&stream=856250&extension=ts&play_token=61zdaaCbzJ
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/212nz9z3bi67xvxjnl90u/.png?rlkey=s828nfzs8yao5b0o3zz1g97er&dl=1" group-title="Football&Golf",EL REPLAY 4 UHD
+http://line.chktv.xyz:80/play/live.php?mac=00:1A:79:B8:8F:AD&stream=856249&extension=ts&play_token=e7sh3q3T38
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/212nz9z3bi67xvxjnl90u/.png?rlkey=s828nfzs8yao5b0o3zz1g97er&dl=1" group-title="Football&Golf",EL REPLAY 5 UHD
+http://line.chktv.xyz:80/play/live.php?mac=00:1A:79:B8:8F:AD&stream=856248&extension=ts&play_token=nX0jnRo9m6
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/212nz9z3bi67xvxjnl90u/.png?rlkey=s828nfzs8yao5b0o3zz1g97er&dl=1" group-title="Football&Golf",EL REPLAY 6 UHD
+http://line.chktv.xyz:80/play/live.php?mac=00:1A:79:B8:8F:AD&stream=856247&extension=ts&play_token=tfj73gX2HN
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/212nz9z3bi67xvxjnl90u/.png?rlkey=s828nfzs8yao5b0o3zz1g97er&dl=1" group-title="Football&Golf",EL REPLAY 7 UHD
+http://line.chktv.xyz:80/play/live.php?mac=00:1A:79:B8:8F:AD&stream=856246&extension=ts&play_token=khTfF70wDv
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/212nz9z3bi67xvxjnl90u/.png?rlkey=s828nfzs8yao5b0o3zz1g97er&dl=1" group-title="Football&Golf",EL REPLAY 8 UHD
+http://line.chktv.xyz:80/play/live.php?mac=00:1A:79:B8:8F:AD&stream=856245&extension=ts&play_token=bkvPqlIRCV
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/212nz9z3bi67xvxjnl90u/.png?rlkey=s828nfzs8yao5b0o3zz1g97er&dl=1" group-title="Football&Golf",EL REPLAY 9 UHD
+http://line.chktv.xyz:80/play/live.php?mac=00:1A:79:B8:8F:AD&stream=856244&extension=ts&play_token=BPSNuAncRp
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/212nz9z3bi67xvxjnl90u/.png?rlkey=s828nfzs8yao5b0o3zz1g97er&dl=1" group-title="Football&Golf",EL REPLAY 10 UHD
+http://line.chktv.xyz:80/play/live.php?mac=00:1A:79:B8:8F:AD&stream=856243&extension=ts&play_token=j0hajZFIwn
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/212nz9z3bi67xvxjnl90u/.png?rlkey=s828nfzs8yao5b0o3zz1g97er&dl=1" group-title="Football&Golf",EL REPLAY 11 UHD
+http://line.chktv.xyz:80/play/live.php?mac=00:1A:79:B8:8F:AD&stream=856242&extension=ts&play_token=ag0tf5tUGM
+
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/212nz9z3bi67xvxjnl90u/.png?rlkey=s828nfzs8yao5b0o3zz1g97er&dl=1" group-title="Football&Golf",FR - GOLF+ UHD
+http://line.chktv.xyz:80/play/live.php?mac=00:1A:79:B8:8F:AD&stream=246332&extension=ts&play_token=ndLf6jKOQs
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/212nz9z3bi67xvxjnl90u/.png?rlkey=s828nfzs8yao5b0o3zz1g97er&dl=1" group-title="Football&Golf",FR - GOLF CHANNEL UHD
+http://line.chktv.xyz:80/play/live.php?mac=00:1A:79:B8:8F:AD&stream=543419&extension=ts&play_token=hweEgAGaF5
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/212nz9z3bi67xvxjnl90u/.png?rlkey=s828nfzs8yao5b0o3zz1g97er&dl=1" group-title="Football&Golf",FR - GOLF+ UHD
+http://line.chktv.xyz:80/play/live.php?mac=00:1A:79:B8:8F:AD&stream=543421&extension=ts&play_token=fmntbv2jCd
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/212nz9z3bi67xvxjnl90u/.png?rlkey=s828nfzs8yao5b0o3zz1g97er&dl=1" group-title="Football&Golf",FR - GOLF+
+http://line.chktv.xyz:80/play/live.php?mac=00:1A:79:B8:8F:AD&stream=246445&extension=ts&play_token=hW5aFAX0TL
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/212nz9z3bi67xvxjnl90u/.png?rlkey=s828nfzs8yao5b0o3zz1g97er&dl=1" group-title="Football&Golf",FR - GOLF CHANNEL
+http://line.chktv.xyz:80/play/live.php?mac=00:1A:79:B8:8F:AD&stream=543420&extension=ts&play_token=ABhZCAmHv3
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/212nz9z3bi67xvxjnl90u/.png?rlkey=s828nfzs8yao5b0o3zz1g97er&dl=1" group-title="Football&Golf",FR - GOLF CHANNEL FHD
+http://line.chktv.xyz:80/play/live.php?mac=00:1A:79:B8:8F:AD&stream=756586&extension=ts&play_token=1IXHoyglTv
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/212nz9z3bi67xvxjnl90u/.png?rlkey=s828nfzs8yao5b0o3zz1g97er&dl=1" group-title="Football&Golf",FR - GOLF+ FHD
+http://line.chktv.xyz:80/play/live.php?mac=00:1A:79:B8:8F:AD&stream=756587&extension=ts&play_token=S2O0XBNQv7
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/212nz9z3bi67xvxjnl90u/.png?rlkey=s828nfzs8yao5b0o3zz1g97er&dl=1" group-title="Football&Golf",FR - GOLF+ HEVC
+http://line.chktv.xyz:80/play/live.php?mac=00:1A:79:B8:8F:AD&stream=845383&extension=ts&play_token=UsG7bo9XZG
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/scl/fi/212nz9z3bi67xvxjnl90u/.png?rlkey=s828nfzs8yao5b0o3zz1g97er&dl=1" group-title="Football&Golf",FR - GOLF CHANNEL HEVC
+http://line.chktv.xyz:80/play/live.php?mac=00:1A:79:B8:8F:AD&stream=845382&extension=ts&play_token=s4s4hwyt3W
